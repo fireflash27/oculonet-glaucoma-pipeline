@@ -1,0 +1,12 @@
+# Ignore model weights (too large for direct push)
+*.pth
+*.pt
+
+# Ignore test images
+*.jpg
+*.jpeg
+*.png
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
